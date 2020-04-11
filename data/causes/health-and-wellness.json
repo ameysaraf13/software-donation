@@ -18,4 +18,10 @@
       ]
     }
   ]
-}
+},
+    {
+      "name": "Hypercare",
+      "softwares": [
+        {
+          "id": "hypercare"
+        }
